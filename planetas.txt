@@ -1,4 +1,4 @@
 Marte 
-Mercurio
-Vênus 
+Mercurio 
 Terra
+Sol
